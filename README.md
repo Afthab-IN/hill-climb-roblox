@@ -1,5 +1,11 @@
 # Hill Climb (3D terrain racer for Roblox)
 
+<p align="center">
+  <img src="assets/preview.svg" alt="Hill Climb preview" width="100%">
+</p>
+
+<p align="center"><sub><i>Illustrated preview (matches the in-game colors, hills, buggy, and HUD). A real in-engine capture will replace this once the game is published.</i></sub></p>
+
 Drive a buggy as far as you can across endless rolling hills. Grab fuel cans,
 don't run dry, and beat your best distance. Built entirely from code, so there
 is nothing to model by hand: the road, the car, and the HUD are all generated
