@@ -1,0 +1,10 @@
+# Binary build artifact (regenerate with `rojo build`)
+HillClimb.rbxl
+
+# Personal setup notes (account-specific, not for the public repo)
+FINISH-PUBLISH.txt
+
+# Rojo / editor
+/build/
+*.rbxlx.lock
+.DS_Store
